@@ -1,5 +1,5 @@
 //  links
-const links = [
+const dataNav = [
   { name: 'home', path: '/', icon: <HiHome /> },
   { name: 'about', path: '/about', icon: <HiUser /> },
   { name: 'services', path: '/services', icon: <HiRectangleGroup /> },
